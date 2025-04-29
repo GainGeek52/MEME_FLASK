@@ -1,6 +1,3 @@
-Here's a simple README template for your GitHub project:
-
----
 
 # Meme Gallery
 
